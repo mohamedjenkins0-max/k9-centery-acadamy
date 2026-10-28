@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">K9 Century</string>
+    <string name="app_full_name">K9 Century Academy</string>
+    <string name="academy_motto">Inspect What You Expect.</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_enrollment">Enrollment</string>
+    <string name="nav_radar">Radar</string>
+    <string name="nav_billing">Billing</string>
+    <string name="nav_diagnostics">Diagnostics</string>
+</resources>

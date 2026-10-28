@@ -1,0 +1,6 @@
+{
+  "name": "K9 Century Academy",
+  "description": "Official academy portal for K9 security training enrollment, tactical sector radar, tuition billing, and device diagnostics with the motto 'Inspect What You Expect.'",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
